@@ -1,19 +1,19 @@
 {
-  "name": "language-html",
-  "version": "0.48.2",
-  "description": "HTML language support in Atom",
+  "name": "language-html-babel",
+  "version": "0.48.1",
+  "description": "Forked from language-html to add babel support for script tags",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-html",
+  "homepage": "https://github.com/kentcdodds/language-html-babel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-html.git"
+    "url": "https://github.com/kentcdodds/language-html-babel.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-html/issues"
+    "url": "https://github.com/kentcdodds/language-html-babel/issues"
   },
   "dependencies": {
     "atom-grammar-test": "^0.6.3"
